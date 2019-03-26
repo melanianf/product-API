@@ -1,125 +1,125 @@
-
-
-[
-  {
-    "id": 1,
-    "judul": "Rabbit - Whole",
-    "harga": "$6.33"
-  }, {
-    "id": 2,
-    "judul": "Mace",
-    "harga": "$4.65"
-  }, {
-    "id": 3,
-    "judul": "Beef - Montreal Smoked Brisket",
-    "harga": "$7.17"
-  }, {
-    "id": 4,
-    "judul": "Bag - Bread, White, Plain",
-    "harga": "$8.61"
-  }, {
-    "id": 5,
-    "judul": "Vinegar - Rice",
-    "harga": "$9.49"
-  }, {
-    "id": 6,
-    "judul": "Smirnoff Green Apple Twist",
-    "harga": "$2.38"
-  }, {
-    "id": 7,
-    "judul": "Wine - Mondavi Coastal Private",
-    "harga": "$1.22"
-  }, {
-    "id": 8,
-    "judul": "Beer - Guiness",
-    "harga": "$3.86"
-  }, {
-    "id": 9,
-    "judul": "Beef - Salted",
-    "harga": "$7.31"
-  }, {
-    "id": 10,
-    "judul": "Dried Cranberries",
-    "harga": "$6.60"
-  }, {
-    "id": 11,
-    "judul": "Tea - Earl Grey",
-    "harga": "$5.57"
-  }, {
-    "id": 12,
-    "judul": "Plastic Wrap",
-    "harga": "$8.44"
-  }, {
-    "id": 13,
-    "judul": "Tarragon - Fresh",
-    "harga": "$8.42"
-  }, {
-    "id": 14,
-    "judul": "Fennel",
-    "harga": "$8.32"
-  }, {
-    "id": 15,
-    "judul": "Butcher Twine 4r",
-    "harga": "$4.36"
-  }, {
-    "id": 16,
-    "judul": "Blouse / Shirt / Sweater",
-    "harga": "$5.11"
-  }, {
-    "id": 17,
-    "judul": "Breadfruit",
-    "harga": "$8.77"
-  }, {
-    "id": 18,
-    "judul": "Leeks - Large",
-    "harga": "$6.70"
-  }, {
-    "id": 19,
-    "judul": "Carrots - Mini Red Organic",
-    "harga": "$4.47"
-  }, {
-    "id": 20,
-    "judul": "Corn Syrup",
-    "harga": "$8.95"
-  }, {
-    "id": 21,
-    "judul": "Numi - Assorted Teas",
-    "harga": "$7.08"
-  }, {
-    "id": 22,
-    "judul": "Sugar - Cubes",
-    "harga": "$4.45"
-  }, {
-    "id": 23,
-    "judul": "Cheese - Boursin, Garlic / Herbs",
-    "harga": "$0.31"
-  }, {
-    "id": 24,
-    "judul": "The Pop Shoppe - Cream Soda",
-    "harga": "$2.62"
-  }, {
-    "id": 25,
-    "judul": "Ice Cream - Chocolate",
-    "harga": "$1.80"
-  }, {
-    "id": 26,
-    "judul": "Rice - Brown",
-    "harga": "$9.91"
-  }, {
-    "id": 27,
-    "judul": "Maple Syrup",
-    "harga": "$7.41"
-  }, {
-    "id": 28,
-    "judul": "Horseradish Root",
-    "harga": "$3.09"
-  }, {
-    "id": 29,
-    "judul": "Tofu - Firm",
-    "harga": "$4.64"
-  }, {
-    "id": 30,
-    "judul": "Artichoke - Hearts, Canned",
-    "harga": "$8.08"
-  }
-]
+{
+  "products : 
+  [
+    {
+      "id": 1,
+      "judul": "Rabbit - Whole",
+      "harga": "$6.33"
+    }, {
+      "id": 2,
+      "judul": "Mace",
+      "harga": "$4.65"
+    }, {
+      "id": 3,
+      "judul": "Beef - Montreal Smoked Brisket",
+      "harga": "$7.17"
+    }, {
+      "id": 4,
+      "judul": "Bag - Bread, White, Plain",
+      "harga": "$8.61"
+    }, {
+      "id": 5,
+      "judul": "Vinegar - Rice",
+      "harga": "$9.49"
+    }, {
+      "id": 6,
+      "judul": "Smirnoff Green Apple Twist",
+      "harga": "$2.38"
+    }, {
+      "id": 7,
+      "judul": "Wine - Mondavi Coastal Private",
+      "harga": "$1.22"
+    }, {
+      "id": 8,
+      "judul": "Beer - Guiness",
+      "harga": "$3.86"
+    }, {
+      "id": 9,
+      "judul": "Beef - Salted",
+      "harga": "$7.31"
+    }, {
+      "id": 10,
+      "judul": "Dried Cranberries",
+      "harga": "$6.60"
+    }, {
+      "id": 11,
+      "judul": "Tea - Earl Grey",
+      "harga": "$5.57"
+    }, {
+      "id": 12,
+      "judul": "Plastic Wrap",
+      "harga": "$8.44"
+    }, {
+      "id": 13,
+      "judul": "Tarragon - Fresh",
+      "harga": "$8.42"
+    }, {
+      "id": 14,
+      "judul": "Fennel",
+      "harga": "$8.32"
+    }, {
+      "id": 15,
+      "judul": "Butcher Twine 4r",
+      "harga": "$4.36"
+    }, {
+      "id": 16,
+      "judul": "Blouse / Shirt / Sweater",
+      "harga": "$5.11"
+    }, {
+      "id": 17,
+      "judul": "Breadfruit",
+      "harga": "$8.77"
+    }, {
+      "id": 18,
+      "judul": "Leeks - Large",
+      "harga": "$6.70"
+    }, {
+      "id": 19,
+      "judul": "Carrots - Mini Red Organic",
+      "harga": "$4.47"
+    }, {
+      "id": 20,
+      "judul": "Corn Syrup",
+      "harga": "$8.95"
+    }, {
+      "id": 21,
+      "judul": "Numi - Assorted Teas",
+      "harga": "$7.08"
+    }, {
+      "id": 22,
+      "judul": "Sugar - Cubes",
+      "harga": "$4.45"
+    }, {
+      "id": 23,
+      "judul": "Cheese - Boursin, Garlic / Herbs",
+      "harga": "$0.31"
+    }, {
+      "id": 24,
+      "judul": "The Pop Shoppe - Cream Soda",
+      "harga": "$2.62"
+    }, {
+      "id": 25,
+      "judul": "Ice Cream - Chocolate",
+      "harga": "$1.80"
+    }, {
+      "id": 26,
+      "judul": "Rice - Brown",
+      "harga": "$9.91"
+    }, {
+      "id": 27,
+      "judul": "Maple Syrup",
+      "harga": "$7.41"
+    }, {
+      "id": 28,
+      "judul": "Horseradish Root",
+      "harga": "$3.09"
+    }, {
+      "id": 29,
+      "judul": "Tofu - Firm",
+      "harga": "$4.64"
+    }, {
+      "id": 30,
+      "judul": "Artichoke - Hearts, Canned",
+      "harga": "$8.08"
+    }
+  ]
